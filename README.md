@@ -1,3 +1,4 @@
+branch : master
 Para rodar o projeto, precisará ter a sdk do .NET 8,e Docker na maquina que o Clonar!
 Para Rodar em docker, contendo os requisitos acima, basta debugar ou rodar o Container pelo proprio Vs 2022
 ![image](https://github.com/Ga-Bicudo/Desafio-BackEnd/assets/66627874/23ee5a74-82d2-42e4-8da2-82bbfffa0bb4)
